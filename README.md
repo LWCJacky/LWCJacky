@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LWCJacky
 - 👀 我對前端應用開發和單晶片硬體開發有興趣
-- 🌱 目前正在學習 MYSQL,PYTHON,VUE CLI
 - 📫 請發送信箱[lll30809791@gmail.com]聯繫我
 
 <!---
