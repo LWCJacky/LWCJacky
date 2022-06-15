@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LWCJacky
-- 👀 我對前端應用開發和單晶片硬體開發有興趣
-- 📫 請發送信箱[lll30809791@gmail.com]聯繫我
+
 
 <!---
 LWCJacky/LWCJacky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
