@@ -45,13 +45,7 @@
 
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/LWCJacky"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LWCJacky&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
-</details>
 
 <br/>
 
